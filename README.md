@@ -8,7 +8,15 @@ In a subsequent second step, we will then merge all found patents into a databas
 
 ### Contribute
 
-To contribute, please fork the repo and add the patents to a csv file including ```Inventor, Assignee, App/Pub Number, Application Status, URL``` to the "collections" folder. Via pull request you can add those files to this core repository. 
+To contribute, please fork the repo and add the patents to a .csv file including
+
+* Inventor 
+* Assignee
+* App/Pub Number, 
+* Application Status
+* URL 
+
+to the "collections" folder. Via pull request you can add those files to this core repository. 
 
 
 ### Other
